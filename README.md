@@ -1,4 +1,4 @@
-# SAT-MAX solver Optimisation-search
+# SAT-MAX Solver Optimisation-search
        - Depth-first search 
        - Breadth-first search
        - Greedy best-first search
